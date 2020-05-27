@@ -4,6 +4,7 @@
     <list default="true" id="4fd8714f-3100-4b3e-85ff-9fc0cc95b168" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/ft.css" beforeDir="false" afterPath="$PROJECT_DIR$/ft.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,13 @@
         <entry file="file://$PROJECT_DIR$/ft.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-735" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-645" />
           </provider>
         </entry>
       </file>
@@ -193,6 +201,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/img/clashi.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-645" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
